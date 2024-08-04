@@ -1,3 +1,3 @@
-# Official website for Full Moon House 
+# Official Website for Full Moon House 
 
-The site is deployed and can be accessed online at https://fullmoonhouseil.com/
+The site is accessible at https://fullmoonhouseil.com/
